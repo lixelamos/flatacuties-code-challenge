@@ -1,1 +1,0 @@
-# flatacutie-code-challenge
